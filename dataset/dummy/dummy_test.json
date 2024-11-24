@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Cirebon provinsi di mana ?",
+        "answer": "Jawa Barat",
+        "context": "Bupati Cirebon bertanggungjawab kepada gubernur provinsi Jawa Barat.",
+        "id": "strain286"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi alessandria ?",
+        "answer": "Francavilla Bisio",
+        "context": "Francavilla Bisio adalah komune yang terletak di distrik Provinsi Alessandria, Italia.Kota Francavilla Bisio memiliki luas sebesar 7.8 km2.Francavilla Bisio pada tahun 2001, memiliki penduduk sebanyak 466 jiwa.",
+        "id": "strain247"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi cuneo ?",
+        "answer": "Costigliole Saluzzo",
+        "context": "Costigliole Saluzzo adalah komune yang terletak di distrik Provinsi Cuneo, Italia.",
+        "id": "strain173"
+    },
+    {
+        "question": "Massachusetts negara di mana ?",
+        "answer": "Amerika Serikat",
+        "context": "Persemakmuran Massachusetts, adalah sebuah negara bagian Amerika Serikat, bagian dari daerah New England.",
+        "id": "strain70"
+    },
+    {
+        "question": "Kota apa daerah provinsi siena ?",
+        "answer": "Siena",
+        "context": "Bank tertua di dunia itu masih eksis hingga sekarang, berkantor pusat di Siena, dan telah beroperasi tanpa henti sejak tahun 1472.Terdapat juga berbagai kehadiran penting universitas dan rumah sakit, yang mempekerjakan ribuan orang dan melayani cakupan daerah yang lebih luas daripada teritori Provinsi Siena yang sudah dianggap cukup besar.",
+        "id": "strain23"
+    }
+]

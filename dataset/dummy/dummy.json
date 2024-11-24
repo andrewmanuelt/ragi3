@@ -1,0 +1,500 @@
+[
+    {
+        "question": "Apa hari minggu ?",
+        "answer": "9 Januari",
+        "context": "9 Januari adalah hari ke-9 dalam kalender Gregorian.",
+        "id": "strain0"
+    },
+    {
+        "question": "Di mana terletak di provinsi trento ?",
+        "answer": "Grauno",
+        "context": "Grauno adalah komune yang terletak di Provinsi Trento, Italia.",
+        "id": "strain1"
+    },
+    {
+        "question": "Frazione apa terletak di provinsi trento ?",
+        "answer": "Grauno",
+        "context": "Grauno adalah komune yang terletak di Provinsi Trento, Italia.",
+        "id": "strain2"
+    },
+    {
+        "question": "Iriga terletak di daftar provinsi di filipina apa ?",
+        "answer": "Camarines Sur",
+        "context": "Iriga City adalah kota yang terletak di provinsi Camarines Sur, Filipina.Pada tahun 2007, kota ini memiliki populasi sebesar 97.983 jiwa atau 17.061 rumah tangga.Pembagian wilayahSecara politis Iriga City terbagi menjadi 36 barangay, yaitu:Pranala luarOfficial Website of the City of Iriga Diarsipkan 2020-03-19 di Wayback Machine.FPJ's Blog Skulakog by H. Frank V. Penones, Jr.Iriga Historical Timeline2007 NSCB information Diarsipkan 2016-04-03 di Wayback Machine.Philippine Standard Geographic Code Diarsipkan 2012-04-13 di Wayback Machine.2000 Philippine Census Information2007 Philippine Census Information Diarsipkan 2009-03-02 di Wayback Machine.Iriga City, WorldIriga City, Philippines: Great People, Great DestinationNCC Website for Iriga City Diarsipkan 2007-03-11 di Wayback Machine.News from IrigaUniversity of Saint Anthony",
+        "id": "strain3"
+    },
+    {
+        "question": "Kabupaten apa kabupaten sumatra utara ?",
+        "answer": "Deli Serdang",
+        "context": "Deli Serdang (abjad Jawi:  dly srdnGH) adalah sebuah kabupaten yang berada di provinsi Sumatra Utara, Indonesia.",
+        "id": "strain4"
+    },
+    {
+        "question": "Deli serdang kabupaten provinsi di indonesia apa ?",
+        "answer": "Sumatra Utara",
+        "context": "Deli Serdang (abjad Jawi:  dly srdnGH) adalah sebuah kabupaten yang berada di provinsi Sumatra Utara, Indonesia.",
+        "id": "strain5"
+    },
+    {
+        "question": "Deli serdang provinsi di mana ?",
+        "answer": "Sumatra Utara",
+        "context": "Bupati Deli Serdang bertanggungjawab kepada gubernur provinsi Sumatra Utara.",
+        "id": "strain6"
+    },
+    {
+        "question": "Provinsi di indonesia apa provinsi indonesia ?",
+        "answer": "Maluku",
+        "context": "Maluku adalah sebuah provinsi yang meliputi bagian selatan Kepulauan Maluku, Indonesia.",
+        "id": "strain7"
+    },
+    {
+        "question": "Di mana provinsi indonesia ?",
+        "answer": "Maluku",
+        "context": "Terlepas dari keadaan ekonominya, Maluku merupakan provinsi paling terdidik ketiga di Indonesia, setelah DKI Jakarta dan Kepulauan Riau, dengan rata-rata lama sekolah selama 9,81 tahun pada 2019.",
+        "id": "strain8"
+    },
+    {
+        "question": "Apa saudara pluto ?",
+        "answer": "Neptunus",
+        "context": "Neptunus (bahasa Latin: Neptunus) adalah dewa air dan laut pada mitologi Romawi, saudara kandung Jupiter dan Pluto.",
+        "id": "strain9"
+    },
+    {
+        "question": "Provinsi di indonesia apa provinsi indonesia ?",
+        "answer": "Jawa Timur",
+        "context": "Jawa Timur (disingkat Jatim, bahasa Jawa: , Pegon: jw waytn; Jawi Wetan, bahasa Madura: Jhaba Temor), adalah sebuah provinsi di bagian timur Pulau Jawa, Indonesia.",
+        "id": "strain10"
+    },
+    {
+        "question": "Di mana provinsi indonesia ?",
+        "answer": "Jawa Timur",
+        "context": "Luas wilayahnya yakni 47.803,49 km2, dengan jumlah penduduk sebanyak 40.665.696 jiwa (2020) dan kepadatan penduduk 851 jiwa/km2.Jawa Timur memiliki wilayah terluas di antara 6 provinsi di Pulau Jawa, dan memiliki jumlah penduduk terbanyak kedua di Indonesia setelah Jawa Barat.",
+        "id": "strain11"
+    },
+    {
+        "question": "Jawa timur provinsi negara apa ?",
+        "answer": "Indonesia",
+        "context": "Smelter ini akan menjadi yang terbesar di dunia.SosialPendidikanJawa Timur merupakan provinsi dengan jumlah perguruan tinggi negeri terbanyak di Indonesia.",
+        "id": "strain12"
+    },
+    {
+        "question": "Not that far away dinyanyikan oleh siapa ?",
+        "answer": "Jennette McCurdy",
+        "context": "Not That Far Away adalah sebuah lagu yang dinyanyikan oleh penyanyi-penulis lagu asal Amerika Serikat, Jennette McCurdy.",
+        "id": "strain13"
+    },
+    {
+        "question": "Kabupaten apa terdiri dari johan pahlawan ?",
+        "answer": "Aceh Barat",
+        "context": "Oleh Belanda Kerajaan Aceh dibentuk menjadi Gouvernement Atjeh en Onderhorigheden (Gubernemen Aceh dan Daerah Taklukannya) dan selanjutnya dengan dibentuknya Gouvernement Sumatra, Aceh dijadikan Keresidenan yang dibagi atas beberapa wilayah yang disebut afdeeling (provinsi) dan afdeeling dibagi lagi atas beberapa onderafdeeling (kabupaten) dan onderafdeeling dibagi menjadi beberapa landschap (kecamatan).Penjajahan BelandaAceh Barat sangat berkaitan dengan sejarah Meulaboh, Ibu kota Kabupaten Aceh Barat yang terdiri dari Kecamatan Johan Pahlawan, sebagian Kaway XVI dan sebagian Kecamatan Meureubo adalah salah satu Kota yang paling tua di belahan Aceh bagian Barat dan Selatan.",
+        "id": "strain14"
+    },
+    {
+        "question": "Di mana terdiri dari samatiga ?",
+        "answer": "Kabupaten Aceh Barat",
+        "context": "Kabupaten Aceh Barat dengan Ibu kota Meulaboh terdiri dari tiga wilayah yaitu Meulaboh, Calang dan Simeulue, dengan jumlah kecamatan sebanyak 19 (sembilan belas) kecamatan yaitu Kaway XVI; Johan Pahlwan; Seunagan; Kuala; Beutong; Darul Makmur; Samatiga; Woyla; Sungai Mas; Teunom; Krueng Sabee; Setia Bakti; Sampoi Niet; Jaya; Simeulue Timur; Simeulue Tengah; Simeulue Barat; Teupah Selatan dan Salang.",
+        "id": "strain15"
+    },
+    {
+        "question": "Kabupaten apa terdiri dari kaway xvi ?",
+        "answer": "Aceh Barat",
+        "context": "Oleh Belanda Kerajaan Aceh dibentuk menjadi Gouvernement Atjeh en Onderhorigheden (Gubernemen Aceh dan Daerah Taklukannya) dan selanjutnya dengan dibentuknya Gouvernement Sumatra, Aceh dijadikan Keresidenan yang dibagi atas beberapa wilayah yang disebut afdeeling (provinsi) dan afdeeling dibagi lagi atas beberapa onderafdeeling (kabupaten) dan onderafdeeling dibagi menjadi beberapa landschap (kecamatan).Penjajahan BelandaAceh Barat sangat berkaitan dengan sejarah Meulaboh, Ibu kota Kabupaten Aceh Barat yang terdiri dari Kecamatan Johan Pahlawan, sebagian Kaway XVI dan sebagian Kecamatan Meureubo adalah salah satu Kota yang paling tua di belahan Aceh bagian Barat dan Selatan.",
+        "id": "strain16"
+    },
+    {
+        "question": "Di mana terdiri dari kaway xvi ?",
+        "answer": "Kabupaten Aceh Barat",
+        "context": "Kabupaten Aceh Barat dengan Ibu kota Meulaboh terdiri dari tiga wilayah yaitu Meulaboh, Calang dan Simeulue, dengan jumlah kecamatan sebanyak 19 (sembilan belas) kecamatan yaitu Kaway XVI; Johan Pahlwan; Seunagan; Kuala; Beutong; Darul Makmur; Samatiga; Woyla; Sungai Mas; Teunom; Krueng Sabee; Setia Bakti; Sampoi Niet; Jaya; Simeulue Timur; Simeulue Tengah; Simeulue Barat; Teupah Selatan dan Salang.",
+        "id": "strain17"
+    },
+    {
+        "question": "Di mana terdiri dari woyla ?",
+        "answer": "Kabupaten Aceh Barat",
+        "context": "Kabupaten Aceh Barat dengan Ibu kota Meulaboh terdiri dari tiga wilayah yaitu Meulaboh, Calang dan Simeulue, dengan jumlah kecamatan sebanyak 19 (sembilan belas) kecamatan yaitu Kaway XVI; Johan Pahlwan; Seunagan; Kuala; Beutong; Darul Makmur; Samatiga; Woyla; Sungai Mas; Teunom; Krueng Sabee; Setia Bakti; Sampoi Niet; Jaya; Simeulue Timur; Simeulue Tengah; Simeulue Barat; Teupah Selatan dan Salang.",
+        "id": "strain18"
+    },
+    {
+        "question": "Kabupaten apa kabupaten sumatra utara ?",
+        "answer": "Humbang Hasundutan",
+        "context": "Humbang Hasundutan (disingkat Humbahas, surat Batak Toba:   ) adalah sebuah kabupaten di Sumatra Utara, Indonesia.",
+        "id": "strain19"
+    },
+    {
+        "question": "Ioc penyelenggara apa ?",
+        "answer": "Olimpiade",
+        "context": "Setelah terpilih, kota tuan rumah beserta NOC nya akan menandatangani kontrak dengan IOC dan secara resmi dinobatkan sebagai kota tuan rumah penyelenggara Olimpiade.Hingga tahun 2016, Olimpiade telah diselenggarakan oleh 44 kota di 23 negara, namun sebagian besarnya adalah kota-kota di Eropa dan Amerika Utara.",
+        "id": "strain20"
+    },
+    {
+        "question": "Ngo apa penyelenggara olimpiade ?",
+        "answer": "IOC",
+        "context": "Setelah terpilih, kota tuan rumah beserta NOC nya akan menandatangani kontrak dengan IOC dan secara resmi dinobatkan sebagai kota tuan rumah penyelenggara Olimpiade.Hingga tahun 2016, Olimpiade telah diselenggarakan oleh 44 kota di 23 negara, namun sebagian besarnya adalah kota-kota di Eropa dan Amerika Utara.",
+        "id": "strain21"
+    },
+    {
+        "question": "Mannheim kota kembar komune di prancis apa ?",
+        "answer": "Toulon",
+        "context": "Mannheim merupakan tempat awal dan akhir Bertha Benz Memorial Route.Kota kembarMannheim memiliki hubungan kota kembar dengan: Bydgoszcz, Polandia Chisinau, Moldova Haifa, Israel Klaipeda, Lituania Swansea, Wales, Britania Raya Toulon, Prancis Ulan Ude, Rusia Windsor, Kanada Zhenjiang, Republik Rakyat Tiongkok Charlottenburg-Wilmersdorf, Berlin, Jerman Riesa, JermanPenemuan-penemuan yang dibuat di Mannheim\t\t\t\tPranala luarMannheimBertha Benz Memorial Route",
+        "id": "strain22"
+    },
+    {
+        "question": "Kota apa daerah provinsi siena ?",
+        "answer": "Siena",
+        "context": "Bank tertua di dunia itu masih eksis hingga sekarang, berkantor pusat di Siena, dan telah beroperasi tanpa henti sejak tahun 1472.Terdapat juga berbagai kehadiran penting universitas dan rumah sakit, yang mempekerjakan ribuan orang dan melayani cakupan daerah yang lebih luas daripada teritori Provinsi Siena yang sudah dianggap cukup besar.",
+        "id": "strain23"
+    },
+    {
+        "question": "Di mana negara amerika serikat ?",
+        "answer": "Illinois",
+        "context": "Illinois merupakan sebuah negara bagian Amerika Serikat.",
+        "id": "strain24"
+    },
+    {
+        "question": "Negara bagian a.s. apa negara amerika serikat ?",
+        "answer": "Illinois",
+        "context": "Illinois merupakan sebuah negara bagian Amerika Serikat.",
+        "id": "strain25"
+    },
+    {
+        "question": "Di mana terletak di schleswig-holstein ?",
+        "answer": "Pl\u00f6n",
+        "context": "Plon adalah sebuah distrik (Landkreis) yang terletak di Schleswig-Holstein, Jerman.",
+        "id": "strain26"
+    },
+    {
+        "question": "Provinsi di indonesia apa provinsi indonesia ?",
+        "answer": "Kepulauan Bangka Belitung",
+        "context": "Kepulauan Bangka Belitung adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau.",
+        "id": "strain27"
+    },
+    {
+        "question": "Kota pangkal pinang ibu kota di mana ?",
+        "answer": "Provinsi Kepulauan Bangka Belitung",
+        "context": "Tempat ini merupakan latar dari tetralogi Laskar Pelangi yang ditulis Andrea Hirata.Kota Pangkal Pinang: Merupakan ibu kota Provinsi Kepulauan Bangka Belitung yang ditetapkan sejak tahun 2002.",
+        "id": "strain28"
+    },
+    {
+        "question": "Kofi annan lahir di kota apa ?",
+        "answer": "Kumasi",
+        "context": "Ia adalah pendiri dan ketua Kofi Annan Foundation sekaligus ketua The Elders, organisasi internasional yang didirikan oleh Nelson Mandela.Annan lahir di Kumasi dan mendalami ilmu ekonomi di Macalester College, hubungan internasional di Graduate Institute Geneva, dan manajemen di MIT.",
+        "id": "strain29"
+    },
+    {
+        "question": "Di mana negara amerika serikat ?",
+        "answer": "Mississippi",
+        "context": "Mississippi merupakan sebuah negara bagian Amerika Serikat.",
+        "id": "strain30"
+    },
+    {
+        "question": "Negara bagian amerika serikat apa negara amerika serikat ?",
+        "answer": "Mississippi",
+        "context": "Mississippi merupakan sebuah negara bagian Amerika Serikat.",
+        "id": "strain31"
+    },
+    {
+        "question": "Di mana negara amerika serikat ?",
+        "answer": "New Mexico",
+        "context": "New Mexico adalah sebuah negara bagian Amerika Serikat.",
+        "id": "strain32"
+    },
+    {
+        "question": "Negara bagian amerika serikat apa negara amerika serikat ?",
+        "answer": "New Mexico",
+        "context": "New Mexico adalah sebuah negara bagian Amerika Serikat.",
+        "id": "strain33"
+    },
+    {
+        "question": "Di mana ibu kota tajikistan ?",
+        "answer": "Dushanbe",
+        "context": "Dushanbe, ibu kota negara ini terletak di lereng selatan di atas lembah Kofarnihon.Sungai Amu Darya dan sungai Panj membentuk perbatasan dengan Afganistan, dan gletser di pegunungan Tajikistan adalah sumber air utama untuk Laut Aral.",
+        "id": "strain34"
+    },
+    {
+        "question": "Kota apa ibu kota tajikistan ?",
+        "answer": "Dushanbe",
+        "context": "Dushanbe, ibu kota negara ini terletak di lereng selatan di atas lembah Kofarnihon.Sungai Amu Darya dan sungai Panj membentuk perbatasan dengan Afganistan, dan gletser di pegunungan Tajikistan adalah sumber air utama untuk Laut Aral.",
+        "id": "strain35"
+    },
+    {
+        "question": "Tripura negara di mana ?",
+        "answer": "India",
+        "context": "Untuk kegunaan lain dari Tripura, lihat TripuraTripura ialah sebuah negara bagian di India.Ibu kota negara bagian ini ialah Agartala.KotaAgartalaDharmanagarSungaiDeoDhalaiKhowaiManu(sungai)DemografiAgamaReferensi",
+        "id": "strain36"
+    },
+    {
+        "question": "Di mana terletak di metro manila ?",
+        "answer": "Valenzuela",
+        "context": "Valenzuela adalah kota yang terletak di Metro Manila, Filipina.",
+        "id": "strain37"
+    },
+    {
+        "question": "Di mana negara jerman ?",
+        "answer": "Saarland",
+        "context": "Saarland adalah sebuah negara bagian Jerman.",
+        "id": "strain38"
+    },
+    {
+        "question": "Daftar negara bagian jerman apa negara jerman ?",
+        "answer": "Saarland",
+        "context": "Saarland adalah sebuah negara bagian Jerman.",
+        "id": "strain39"
+    },
+    {
+        "question": "Di mana bagian dari benelux ?",
+        "answer": "Belgia",
+        "context": "Belgia juga merupakan anggota pendiri Zona Euro, NATO, OECD, dan WTO, serta bagian dari uni trilateral Benelux dan Area Schengen.",
+        "id": "strain40"
+    },
+    {
+        "question": "Negara berdaulat apa bagian dari benelux ?",
+        "answer": "Belgia",
+        "context": "Belgia juga merupakan anggota pendiri Zona Euro, NATO, OECD, dan WTO, serta bagian dari uni trilateral Benelux dan Area Schengen.",
+        "id": "strain41"
+    },
+    {
+        "question": "Chili titik tertinggi gunung apa ?",
+        "answer": "Ojos del Salado",
+        "context": "Wilayah ini terbentuk selama jutaan tahun karena melipatnya bebatuan, menyusun relief seperti yang terwujud sekarang ini.Relief Chili dibentuk oleh depresi pertengahan, yang melintasi negara ini secara longitudinal, diapit oleh dua sistem pegunungan seluas hampir 80% wilayah Chili: Andes di sisi timur --perbatasan alami dengan Bolivia dan Argentina, dengan titik tertinggi terletak di Ojos del Salado, setinggi 6.893 meter di atas permukaan laut, gunung berapi aktif tertinggi di dunia, di Region Atacama-- dan Jajaran Pesisir di sisi barat --lebih rendah bila dibandingkan dengan Andes, dengan titik tertinggi di bukit Vicuna Mackenna, setinggi 3.114 meter di atas permukaan laut, terletak di Sierra Vicuna Mackenna, di selatan Antofagasta--.",
+        "id": "strain42"
+    },
+    {
+        "question": "Di mana ibu kota uni emirat arab ?",
+        "answer": "Abu Dhabi",
+        "context": "Abu Dhabi adalah ibu kota negara ini, sementara Dubai menjadi kota yang paling padat.Uni Emirat Arab adalah sebuah Monarki terpilih yang terbentuk atas federasi dari tujuh emirat, yaitu Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah dan Umm al-Qaiwain.",
+        "id": "strain43"
+    },
+    {
+        "question": "Kota apa ibu kota uni emirat arab ?",
+        "answer": "Abu Dhabi",
+        "context": "Abu Dhabi adalah ibu kota negara ini, sementara Dubai menjadi kota yang paling padat.Uni Emirat Arab adalah sebuah Monarki terpilih yang terbentuk atas federasi dari tujuh emirat, yaitu Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah dan Umm al-Qaiwain.",
+        "id": "strain44"
+    },
+    {
+        "question": "Di mana negara india ?",
+        "answer": "Uttarakhand",
+        "context": "Uttarakhand (bahasa Hindi: uttraakhNdd), adalah sebuah negara bagian dari Republik India yang ke-27 pada 9 November, 2000.",
+        "id": "strain45"
+    },
+    {
+        "question": "Apa hari jumat ?",
+        "answer": "13 April",
+        "context": "13 April adalah hari ke-103 (hari ke-104 dalam tahun kabisat) dalam kalender Gregorian.Peristiwa1598 - Dikeluarkannya Maklumat Nantes yang memberi hak hidup bersama orang Protestan dan Katolik Roma di Prancis.1919 - Pembantaian Amritsar: Tentara Inggris dan Gurkha membunuh sedikitnya 379 pengunjuk rasa yang tidak bersenjata di Amritsar, India.1953 - Casino Royale, novel pertama James Bond karya Ian Fleming diterbitkan untuk pertama kalinya.1970 - Tangki oksigen di pesawat Apollo 13 meledak, membahayakan keselamatan awaknya.1997 - Tiger Woods menjadi pemain golf termuda dalam sejarah yang memenangi turnamen Masters.2012 - Peluncuran situs jejaring sosial Ketiker oleh Samuel Berrit Olam2013 - Kecelakaan Pesawat Lion Air di dekat bandara Ngurah Rai, Bali.2017 - Akhir pelaksanaan Ujian Nasional SMA/SMK/MA tahun ajaran 2016/2017 di Indonesia.2021 - Awal 1 Ramadan 1442 H.Kelahiran1901 - Jacques Lacan, psikoanalis Prancis.1963 - Garry Kasparov, pecatur Rusia1979 - Meisya Siregar, aktris Indonesia1994 - Viviyona Apriani, anggota grup idola Indonesia JKT482000 - Nancy Jewel McDonie, anggota girlband MomolandHari raya dan peringatanTahun Baru ThailandTahun Baru Kamboja1979 - Jumat Agung.1990 - Jumat Agung.2001 - Jumat Agung.2002 - Nyepi 1924 Saka.Ekuador - Hari Guru12 April - 13 April - 14 April",
+        "id": "strain46"
+    },
+    {
+        "question": "Negara apa berbatasan dengan spanyol ?",
+        "answer": "Portugal",
+        "context": "Portugal juga merupakan negara anggota wilayah Schengen.SejarahGeografiPortugal adalah negara pesisir pantai di wilayah Eropa barat daya, yang terletak di ujung barat Semenanjung Iberia, berbatasan dengan Spanyol (di perbatasan utara dan timurnya: total 1.214 kilometer (754 mil)).",
+        "id": "strain47"
+    },
+    {
+        "question": "Portugal berbatasan dengan di mana ?",
+        "answer": "Spanyol",
+        "context": "Portugal juga merupakan negara anggota wilayah Schengen.SejarahGeografiPortugal adalah negara pesisir pantai di wilayah Eropa barat daya, yang terletak di ujung barat Semenanjung Iberia, berbatasan dengan Spanyol (di perbatasan utara dan timurnya: total 1.214 kilometer (754 mil)).",
+        "id": "strain48"
+    },
+    {
+        "question": "Portugal berbatasan dengan negara berdaulat apa ?",
+        "answer": "Spanyol",
+        "context": "Portugal juga merupakan negara anggota wilayah Schengen.SejarahGeografiPortugal adalah negara pesisir pantai di wilayah Eropa barat daya, yang terletak di ujung barat Semenanjung Iberia, berbatasan dengan Spanyol (di perbatasan utara dan timurnya: total 1.214 kilometer (754 mil)).",
+        "id": "strain49"
+    },
+    {
+        "question": "Augusto pinochet lahir di kota besar apa ?",
+        "answer": "Valpara\u00edso",
+        "context": "Meskipun ada dakwaan dan 300 tuduhan, ia hanya menjalani hukuman tahanan rumah.Kehidupan awal dan karier militerAugusto Pinochet lahir di Valparaiso pada tanggal 25 November 1915, ia adalah anak dari pasangan Augusto Alejandro Pinochet Vera dan Avelina Ugarte Martinez, Augusto merupakan anak pertama dari enam bersaudara.",
+        "id": "strain50"
+    },
+    {
+        "question": "Di mana berbatasan dengan bourgogne ?",
+        "answer": "Rh\u00f4ne-Alpes",
+        "context": "Ibu kotanya, Lyon, adalah wilayah metropolitan terbesar kedua di Prancis setelah Paris.Rhone-Alpes berbatasan dengan Bourgogne di sebelah utara, Auvergne di barat, Languedoc-Roussillon dan Provence-Alpes-Cote d'Azur di selatan, serta Swiss dan Italia di timur.Pranala luar(Prancis) Situs resmi(Inggris) Situs resmi pariwisata Diarsipkan 2011-03-15 di Wayback Machine.",
+        "id": "strain51"
+    },
+    {
+        "question": "Negara apa negara bahasa inggris ?",
+        "answer": "Amerika Serikat",
+        "context": "Pertumbuhan pengaruh budaya dan ekonomi Amerika Serikat dan statusnya sebagai negara adidaya global sejak Perang Dunia II turut mempercepat penyebaran bahasa Inggris ke seluruh dunia.",
+        "id": "strain52"
+    },
+    {
+        "question": "Provinsi di indonesia apa provinsi indonesia ?",
+        "answer": "Bengkulu",
+        "context": "Bengkulu (Jawi: bGHkwlw Aksara Ulu: ; bahasa Inggris: Bencoolen) adalah sebuah provinsi yang berada di pulau Sumatra, Indonesia.",
+        "id": "strain53"
+    },
+    {
+        "question": "Di mana provinsi indonesia ?",
+        "answer": "Bengkulu",
+        "context": "Pada tanggal 18 November 1968 Bengkulu menjadi provinsi Indonesia ke-26 (termuda sebelum Timor Timur).Politik dan pemerintahanDaftar kabupatenDaftar kecamatan, desa, dan kelurahanProvinsi Bengkulu terdiri dari 9 kabupaten, 1 kotamadya, 128 kecamatan, 172 kelurahan, dan 1.341 desa.",
+        "id": "strain54"
+    },
+    {
+        "question": "Bengkulu provinsi negara apa ?",
+        "answer": "Indonesia",
+        "context": "Pada tanggal 18 November 1968 Bengkulu menjadi provinsi Indonesia ke-26 (termuda sebelum Timor Timur).Politik dan pemerintahanDaftar kabupatenDaftar kecamatan, desa, dan kelurahanProvinsi Bengkulu terdiri dari 9 kabupaten, 1 kotamadya, 128 kecamatan, 172 kelurahan, dan 1.341 desa.",
+        "id": "strain55"
+    },
+    {
+        "question": "Di mana berada di pulau sumatra ?",
+        "answer": "Bengkulu",
+        "context": "Bengkulu (Jawi: bGHkwlw Aksara Ulu: ; bahasa Inggris: Bencoolen) adalah sebuah provinsi yang berada di pulau Sumatra, Indonesia.",
+        "id": "strain56"
+    },
+    {
+        "question": "Provinsi di indonesia apa berada di pulau sumatra ?",
+        "answer": "Bengkulu",
+        "context": "Bengkulu (Jawi: bGHkwlw Aksara Ulu: ; bahasa Inggris: Bencoolen) adalah sebuah provinsi yang berada di pulau Sumatra, Indonesia.",
+        "id": "strain57"
+    },
+    {
+        "question": "Caracas negara di mana ?",
+        "answer": "Venezuela",
+        "context": "Jalan raya Caracas-La Guaira adalah jalur utama antara Caracas dan negara bagian pesisir La Guaira, serta Bandar Udara Internasional Simon Bolivar dan pelabuhan La Guaira, pelabuhan terbesar kedua di Venezuela.Caracas didirikan pada tanggal 25 Juli 1567 oleh Diego de Losada.",
+        "id": "strain58"
+    },
+    {
+        "question": "Kabupaten banggai kabupaten di mana ?",
+        "answer": "Sulawesi Tengah",
+        "context": "Pada tahun 1999 Kabupaten Banggai dimekarkan menjadi Kabupaten Banggai dan Kabupaten Banggai Kepulauan.Kabupaten Banggai merupakan salah satu kabupaten di Sulawesi Tengah yang memiliki potensi sumber daya alam yang melimpah, baik berupa hasil laut (ikan, udang, mutiara, rumput laut dan sebagainya), aneka hasil bumi (kopra, sawit, coklat, beras, kacang mente dan lainnya) serta hasil pertambangan (nikel yang sedang dalam taraf eksplorasi) dan gas (Blok Matindok dan Senoro).SejarahSejarah Kabupaten Banggai sangat berhubungan erat dengan Sejarah Kerajaan Banggai, oleh karena itu pembahasan sejarah Kabupaten Banggai tidak terlepas juga dengan pembahasan sejarah kerajaan Banggai.",
+        "id": "strain59"
+    },
+    {
+        "question": "Kabupaten banggai kabupaten provinsi di indonesia apa ?",
+        "answer": "Sulawesi Tengah",
+        "context": "Pada tahun 1999 Kabupaten Banggai dimekarkan menjadi Kabupaten Banggai dan Kabupaten Banggai Kepulauan.Kabupaten Banggai merupakan salah satu kabupaten di Sulawesi Tengah yang memiliki potensi sumber daya alam yang melimpah, baik berupa hasil laut (ikan, udang, mutiara, rumput laut dan sebagainya), aneka hasil bumi (kopra, sawit, coklat, beras, kacang mente dan lainnya) serta hasil pertambangan (nikel yang sedang dalam taraf eksplorasi) dan gas (Blok Matindok dan Senoro).SejarahSejarah Kabupaten Banggai sangat berhubungan erat dengan Sejarah Kerajaan Banggai, oleh karena itu pembahasan sejarah Kabupaten Banggai tidak terlepas juga dengan pembahasan sejarah kerajaan Banggai.",
+        "id": "strain60"
+    },
+    {
+        "question": "Kabupaten apa kabupaten papua ?",
+        "answer": "Dogiyai",
+        "context": "Nama Dogiyai merupakan nama salah satu gunung di kabupaten ini.Kabupaten ini dibentuk pada tanggal 4 Januari 2008 berdasarkan Undang-Undang Nomor 8 Tahun 2008, bersama-sama dengan pembentukan 5 kabupaten lainnya di Papua.",
+        "id": "strain61"
+    },
+    {
+        "question": "Kabupaten enrekang kabupaten provinsi di indonesia apa ?",
+        "answer": "Sulawesi Selatan",
+        "context": "Kabupaten Enrekang adalah salah satu kabupaten di provinsi Sulawesi Selatan, Indonesia.",
+        "id": "strain62"
+    },
+    {
+        "question": "Kabupaten kapuas hulu ibu kota di mana ?",
+        "answer": "Putussibau",
+        "context": "Setelah bergabung menjadi bagian dari Negara Kesatuan Republik Indonesia (NKRI), dengan dikeluarkannya Undang-Undang Darurat No.3 Tahun 1953 dibentuklah Pemerintahan Administrasi Kabupaten Kapuas Hulu dengan ibu kota Putussibau.",
+        "id": "strain63"
+    },
+    {
+        "question": "Kabupaten kapuas hulu ibu kota kecamatan apa ?",
+        "answer": "Putussibau",
+        "context": "Setelah bergabung menjadi bagian dari Negara Kesatuan Republik Indonesia (NKRI), dengan dikeluarkannya Undang-Undang Darurat No.3 Tahun 1953 dibentuklah Pemerintahan Administrasi Kabupaten Kapuas Hulu dengan ibu kota Putussibau.",
+        "id": "strain64"
+    },
+    {
+        "question": "Kabupaten mempawah kabupaten provinsi di indonesia apa ?",
+        "answer": "Kalimantan Barat",
+        "context": "Kabupaten Mempawah (Melayu Jawi:kbwvtyn mmvwh, sebelumnya bernama Kabupaten Pontianak) adalah salah satu kabupaten di provinsi Kalimantan Barat.",
+        "id": "strain65"
+    },
+    {
+        "question": "Kabupaten minahasa utara ibu kota di mana ?",
+        "answer": "Airmadidi",
+        "context": "Kabupaten Minahasa Utara (sering disingkat Minut) dengan pusat pemerintahan dan ibu kota di Airmadidi, terletak di Provinsi Sulawesi Utara.",
+        "id": "strain66"
+    },
+    {
+        "question": "Kabupaten minahasa utara ibu kota kecamatan apa ?",
+        "answer": "Airmadidi",
+        "context": "Kabupaten Minahasa Utara (sering disingkat Minut) dengan pusat pemerintahan dan ibu kota di Airmadidi, terletak di Provinsi Sulawesi Utara.",
+        "id": "strain67"
+    },
+    {
+        "question": "Kabupaten minahasa utara terletak di provinsi di indonesia apa ?",
+        "answer": "Sulawesi Utara",
+        "context": "Kabupaten Minahasa Utara (sering disingkat Minut) dengan pusat pemerintahan dan ibu kota di Airmadidi, terletak di Provinsi Sulawesi Utara.",
+        "id": "strain68"
+    },
+    {
+        "question": "Kota apa ibu kota israel ?",
+        "answer": "Yerusalem",
+        "context": "Namun Amerika Serikat melalui pernyataan Donald Trump berupaya mengembalikan pengakuan atas Yerusalem sebagai ibu kota Israel dan memindahkan kedutaan besar Amerika Serikat.",
+        "id": "strain69"
+    },
+    {
+        "question": "Massachusetts negara di mana ?",
+        "answer": "Amerika Serikat",
+        "context": "Persemakmuran Massachusetts, adalah sebuah negara bagian Amerika Serikat, bagian dari daerah New England.",
+        "id": "strain70"
+    },
+    {
+        "question": "Negara bagian as apa bagian dari new england ?",
+        "answer": "Massachusetts",
+        "context": "Persemakmuran Massachusetts, adalah sebuah negara bagian Amerika Serikat, bagian dari daerah New England.",
+        "id": "strain71"
+    },
+    {
+        "question": "Massachusetts bagian dari di mana ?",
+        "answer": "New England",
+        "context": "Persemakmuran Massachusetts, adalah sebuah negara bagian Amerika Serikat, bagian dari daerah New England.",
+        "id": "strain72"
+    },
+    {
+        "question": "Massachusetts bagian dari daerah apa ?",
+        "answer": "New England",
+        "context": "Persemakmuran Massachusetts, adalah sebuah negara bagian Amerika Serikat, bagian dari daerah New England.",
+        "id": "strain73"
+    },
+    {
+        "question": "Di mana terletak di provinsi cuneo ?",
+        "answer": "Magliano Alpi",
+        "context": "Magliano Alpi adalah komune yang terletak di distrik Provinsi Cuneo, Italia.",
+        "id": "strain74"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi cuneo ?",
+        "answer": "Magliano Alpi",
+        "context": "Magliano Alpi adalah komune yang terletak di distrik Provinsi Cuneo, Italia.",
+        "id": "strain75"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi alessandria ?",
+        "answer": "Molare",
+        "context": "Molare adalah komune yang terletak di distrik Provinsi Alessandria, Italia.Kota Molare memiliki luas sebesar 32.8 km2.Molare pada tahun 2001, memiliki penduduk sebanyak 2.101 jiwa.",
+        "id": "strain76"
+    },
+    {
+        "question": "Di mana terletak di provinsi cuneo ?",
+        "answer": "Mombarcaro",
+        "context": "Mombarcaro adalah komune yang terletak di distrik Provinsi Cuneo, Italia.",
+        "id": "strain77"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi cuneo ?",
+        "answer": "Mombarcaro",
+        "context": "Mombarcaro adalah komune yang terletak di distrik Provinsi Cuneo, Italia.",
+        "id": "strain78"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi asti ?",
+        "answer": "Montechiaro d'Asti",
+        "context": "Montechiaro d'Asti adalah komune yang terletak di distrik Provinsi Asti, Italia.Kota Montechiaro d'Asti memiliki luas sebesar 10.14 km2.Montechiaro d'Asti pada tahun 2004, memiliki penduduk sebanyak 1.404 jiwa.Referensi",
+        "id": "strain79"
+    },
+    {
+        "question": "Galaksi spiral apa rasi bintang pegasus ?",
+        "answer": "NGC 1",
+        "context": "NGC 1 adalah galaksi spiral yang terletak 190 juta tahun cahaya di rasi bintang Pegasus.",
+        "id": "strain80"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi biella ?",
+        "answer": "Occhieppo Superiore",
+        "context": "Occhieppo Superiore adalah komune yang terletak di distrik Provinsi Biella, Italia.",
+        "id": "strain81"
+    },
+    {
+        "question": "Komune di italia apa terletak di provinsi alessandria ?",
+        "answer": "Ottiglio",
+        "context": "Ottiglio adalah komune yang terletak di distrik Provinsi Alessandria, Italia.Kota Ottiglio memiliki luas sebesar 14.5 km2.Ottiglio pada tahun 2004, memiliki penduduk sebanyak 702 jiwa.Referensi",
+        "id": "strain82"
+    }
+]

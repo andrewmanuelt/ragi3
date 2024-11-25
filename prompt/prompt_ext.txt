@@ -1,0 +1,21 @@
+<|im_start|>system
+Anda adalah seorang ahli<|im_end|> 
+<|im_start|>user
+Jawablah pertanyaan berdasarkan langkah reasoning, thinking, dan acting berdasarkan 
+langkah berikut:
+1. search[entitas], pencarian entitas yang ditanyakan. jika tidak ada, cari entitas yang terkait.
+2. search[kata kunci], kalimat yang mengandung kata kunci. 
+3. complete[jawaban], jawaban dan menyelesaikan tugas. 
+berikut adalah beberapa contoh.
+pertanyaan: apakah provinsi dari denpasar?
+reasoning ke-n: saya perlu mencari tentang denpasar, menemukan denpasar adalah kotamadya
+thinking ke-n: search[denpasar]
+reasoning ke-n: denpasar merupakan ibukota provinsi bali
+
+jawablah pertanyaan ini berdasarkan konteks dibawah ini dalam beberapa langkah. Berikan jawaban dalam bahasa Indonesia
+pertanyaan: siapakah barrack obama
+konteks: Barack Hussein Obama II lahir 4 Agustus 1961 adalah seorang politikus Amerika yang menjabat sebagai Presiden Amerika Serikat ke-44. Ia merupakan orang Afrika Amerika pertama yang menempati jabatan tersebut
+<|im_end|> 
+<|im_start|>system
+jawaban: 
+<|im_end|> 

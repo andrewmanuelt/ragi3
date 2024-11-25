@@ -18,12 +18,12 @@ class RetrieverHyperparameter():
         # }
         
         param = {
-            'test_name': 'single',
+            'test_name': 'dummy',
             'chunk_size': [300, 500],
             'chunk_overlap': [0, 30], 
             'top_k': [3],
-            'dataset_train_dir': './dataset/single/single_train.json', 
-            'dataset_test_dir': './dataset/single/single_test.json', 
+            'dataset_train_dir': './dataset/dummy/dummy.json', 
+            'dataset_test_dir': './dataset/dummy/dummy_test.json', 
         }
         
         return param['test_name'], param['chunk_size'], param['chunk_overlap'], param['top_k'], param['dataset_train_dir'], param['dataset_test_dir']
@@ -31,6 +31,7 @@ class RetrieverHyperparameter():
     def test(self):
         test_name, chunk_size, chunk_overlap, top_k, train_dir, test_dir = self._param()
         
+        num_documents = []
         test_question_list = self._prepare_test(test_dir)
         
         print(" starting training dataset")
@@ -38,15 +39,17 @@ class RetrieverHyperparameter():
         for cz in tqdm(chunk_size):
             for co in tqdm(chunk_overlap):
                 for tk in tqdm(top_k):
-                    self._prepare_train(
+                    num_document = self._prepare_train(
                         test_name=test_name,
                         chunk_size=cz, 
                         chunk_overlap=co,
                         train_dir=train_dir,
                         top_k=tk
                     )
+                    
+                    num_documents.append(num_document)
         
-        print(" training dataset preparation is done")
+        loop = 0
         
         result_collection = []          
         for cz in tqdm(chunk_size):
@@ -65,8 +68,11 @@ class RetrieverHyperparameter():
                         'chunk_overlap': co, 
                         'top_k': tk,
                         'mean_score': mean_score,
-                        'result': result
+                        'number_of_train_documents': num_documents[loop],
+                        'result': result,
                     }
+                    
+                    loop = loop + 1
                     
                     result_collection.append(row)
         
@@ -120,6 +126,7 @@ class RetrieverHyperparameter():
         )
         documents = loader.document()
         
+        num_document = 0
         for doc in tqdm(documents):
             chunked_test = loader.chunk_context(
                 chunk_size=chunk_size,
@@ -128,6 +135,8 @@ class RetrieverHyperparameter():
             )
             
             for small_chunk in chunked_test:
+                num_document = num_document + 1
+                
                 doc = loader.chunked_to_json_item(
                     chunked_test=small_chunk, 
                     question=doc['question'], 
@@ -141,6 +150,8 @@ class RetrieverHyperparameter():
                     document=document
                 )
                 store.store_localfile(client)
+
+        return num_document
     
     # done
     def _prepare_test(self, test_dir) -> list:

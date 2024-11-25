@@ -11,6 +11,6 @@ thinking ke-n: search[denpasar]
 reasoning ke-n: denpasar merupakan ibukota provinsi bali
 
 jawablah pertanyaan ini berdasarkan konteks dibawah ini dalam beberapa langkah.
-pertanyaan: siapakah barrack obama
-konteks: Barack Hussein Obama II lahir 4 Agustus 1961 adalah seorang politikus Amerika yang menjabat sebagai Presiden Amerika Serikat ke-44. Ia merupakan orang Afrika Amerika pertama yang menempati jabatan tersebut
+pertanyaan: {question}
+konteks: {context}
 jawaban: 

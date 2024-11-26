@@ -1,14 +1,20 @@
-# from tqdm import tqdm
-# from helper.document import DocumentLoader 
-# from database.vectordb import Vectorstore
-# from embedding.embeddings import MPNet
+from evaluator.evaluate import Evaluator
+
 from hyperparameter.testing import RetrieverHyperparameter
-# from langchain_core.documents import Document
 
 def main():
-    test = RetrieverHyperparameter()
-    test.test()
-    test.get_best_params()
+    # test = RetrieverHyperparameter()
+    # test.run()
+    # test.get_best_params()
+    
+    candidate = "hello, i'm gemma"
+    reference = "hello fellas we are gemma!"
+    
+    evaluation = Evaluator()
+    evaluation.meteor(candidate, reference)
+    evaluation.bertscore(candidate, reference)
+    evaluation.rouge(candidate, reference)
+        
     
 if __name__ == '__main__':
     main()

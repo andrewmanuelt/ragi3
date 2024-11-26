@@ -1,5 +1,4 @@
 import json 
-import sys 
 
 from tqdm import tqdm
 from database.vectordb import Vectorstore
@@ -8,15 +7,6 @@ from embedding.embeddings import MPNet
 
 class RetrieverHyperparameter():
     def _param(self):
-        # param = {
-        #     'test_name': 'dummy',
-        #     'chunk_size': [300, 500, 700, 1000],
-        #     'chunk_overlap': [0, 30, 50, 60], 
-        #     'top_k': [3, 5, 10],
-        #     'dataset_train_dir': './dataset/dummy/dummy.json', 
-        #     'dataset_test_dir': './dataset/dummy/dummy.json', 
-        # }
-        
         param = {
             'test_name': 'dummy',
             'chunk_size': [300, 500],
@@ -28,7 +18,7 @@ class RetrieverHyperparameter():
         
         return param['test_name'], param['chunk_size'], param['chunk_overlap'], param['top_k'], param['dataset_train_dir'], param['dataset_test_dir']
     
-    def test(self):
+    def run(self):
         test_name, chunk_size, chunk_overlap, top_k, train_dir, test_dir = self._param()
         
         num_documents = []

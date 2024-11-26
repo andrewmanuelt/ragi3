@@ -1,0 +1,26 @@
+{
+    "id": "chatcmpl-b43ce2f859f646059c50cf1b5602481f",
+    "object": "chat.completion",
+    "created": 1732595038,
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "  Pertanyaan: Apakah provinsi dari Denpasar?\n\nKoneksi:\n\n1. Search [entitas]: Tidak ada entitas dengan nama \"Denpasar\" dalam database kami.\n2. Search [kata kunci]: Menemukan entitas dengan nama \"Denpasar\" setelah menggunakan kata kunci \"Denpasar\" dalam database",
+                "tool_calls": []
+            },
+            "logprobs": null,
+            "finish_reason": "length",
+            "stop_reason": null
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 446,
+        "total_tokens": 546,
+        "completion_tokens": 100,
+        "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null
+}

@@ -75,23 +75,44 @@ class KomodoExperiment(BaseExperiment):
         with open('./prompt/prompt_ext.txt') as f:
             prompt = f.read()
         
-        return prompt.format(question, context)
+        return prompt.format(question=question, context=context)
 
-    def _api_request(self):
-        url = 'http://localhost:8000'
+    def _api_request(self, prompt):
+        url = 'http://127.0.0.1:8000/v1/chat/completions'
         
         headers = {
-            'content-type': 'application/json',
+            'Accept'
+            'Content-Type': 'application/json',
         }
+
+        content = f"Please answer the question below in Bahasa Indonesia. {prompt}"
         
         body = {
-            '': ''
+            "model": "meta-llama/Llama-2-7b-chat-hf",
+            "messages": [
+                {
+                    "role": "system",
+                    "content": "You are an assistant.",
+                },
+                {
+                    "role": "user",
+                    "content": f"{content}",
+                }
+            ],
+            "temperature": 0.8,
+            "top_p": 1.0,
+            "n": 1,
+            "stream": False,
+            "max_tokens": 100,
+            "presence_penalty": 0.0,
+            "frequency_penalty": 0.0,
+            "logit_bias": {}
         }
-        
-        response = requests.get(
+
+        response = requests.post(
             url=url,
             headers=headers, 
-            data=body,
+            data=json.dumps(body),
         )
         
         return response.text

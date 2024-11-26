@@ -1,0 +1,21 @@
+{
+    "model": "meta-llama/Llama-2-7b-chat-hf",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an assistant."
+        },
+        {
+            "role": "user",
+            "content": "Please answer the question below in Bahasa Indonesia. <|im_start|>system\nAnda adalah seorang ahli<|im_end|> \n<|im_start|>user\nJawablah pertanyaan berdasarkan langkah reasoning, thinking, dan acting berdasarkan \nlangkah berikut:\n1. search[entitas], pencarian entitas yang ditanyakan. jika tidak ada, cari entitas yang terkait.\n2. search[kata kunci], kalimat yang mengandung kata kunci. \n3. complete[jawaban], jawaban dan menyelesaikan tugas. \nberikut adalah beberapa contoh.\npertanyaan: apakah provinsi dari denpasar?\nreasoning ke-n: saya perlu mencari tentang denpasar, menemukan denpasar adalah kotamadya\nthinking ke-n: search[denpasar]\nreasoning ke-n: denpasar merupakan ibukota provinsi bali\n\njawablah pertanyaan ini berdasarkan konteks dibawah ini dalam beberapa langkah. Berikan jawaban dalam bahasa Indonesia\npertanyaan: who is obama?\nkonteks: Barack Hussein Obama II is an American lawyer and politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president in U.S. history.\n<|im_end|> \n<|im_start|>system\njawaban: \n<|im_end|> "
+        }
+    ],
+    "temperature": 0.8,
+    "top_p": 1.0,
+    "n": 1,
+    "stream": false,
+    "max_tokens": 100,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "logit_bias": {}
+}

@@ -53,12 +53,14 @@ class KomodoExperiment(BaseExperiment):
         test_dataset = self._prepare_test()
         
         collection = []
-        for test, groundtruth in test_dataset:
-            candidate = self._api_request(test)
+        for question, groundtruth in test_dataset:
+            context = self._get_context_from_retriever(question)
+            prompt = self._prompt(question, context)
+            candidate = self._api_request(question, prompt)
             
             meteor, bertscore, rouge = self._evaluation_score(candidate, groundtruth)
             row = {
-                'question': test, 
+                'question': question, 
                 'candidate': candidate,
                 'reference': groundtruth,
                 'meteor': meteor, 
@@ -70,7 +72,10 @@ class KomodoExperiment(BaseExperiment):
         
         with open(f'./result_{str(self.model_name).lower()}.json', 'w') as f:
             json.dump(collection, f, indent=4)
-            
+         
+    def _get_context_from_retriever(self, question):
+        pass
+    
     def _prompt(self, question: str, context: str) -> str: 
         with open('./prompt/prompt_ext.txt') as f:
             prompt = f.read()
